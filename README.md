@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedajaibalizaidi" alt="syedajaibalizaidi" /></a> </p>
 
-- 🔭 I’m currently working on [Ansible-based Infrastructure Automation Project](https://github.com/alizaididev/ansible-projects)
+- I’m currently working on [Ansible-based Infrastructure Automation Project](https://github.com/alizaididev/ansible-projects)
 
-- 🌱 I’m currently learning **FastApi, OpenShift, Django**
+- I’m currently learning **FastApi, Django, Rust**
 
-- 👯 I’m looking to collaborate on **Open-source DevOps tools -Cloud-native infrastructure projects (AWS, Terraform, Kubernetes)**
+- I’m looking to collaborate on **Open-source DevOps tools -Cloud-native infrastructure projects (AWS, Terraform, Kubernetes)**
 
-- 🤝 I’m looking for help with **DevOps**
+- I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/syedajaibalizaidi](https://github.com/syedajaibalizaidi)
+- All of my projects are available at [https://github.com/syedajaibalizaidi](https://github.com/syedajaibalizaidi)
 
 - 💬 Ask me about **DevOps**
 
